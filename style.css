@@ -21,3 +21,83 @@ th,td
     border: 2px solid yellow;
     
 }
+
+.add
+{
+    position: relative;
+    left: 50px;
+    top: 25px;
+    color: yellow;
+}
+
+.header
+{
+    text-align: center;
+    color: gold;
+    margin-top: 3%;
+}
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    //background-color: white;
+    width: 75vw;
+    color: blue;
+}
+
+.row
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    //background-color: lightgreen;
+    //border: 1px solid gold;
+    //padding: 15px;
+    height: 8vh;
+}
+
+.label
+{
+    box-sizing: border-box;
+    width: 41%;
+    height: 100%;
+    //background-color: yellow;
+    float: left;
+    //border: 2px solid blue;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+.input
+{
+    box-sizing: border-box;
+    width: 59%;
+    height: 100%;
+    //background-color: red;
+    float: left;
+    padding: 10px;
+}
+
+.title
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    width: 90%;
+    background-color: #90DD90;
+}
+
+.submit
+{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    background-color: orangered;
+    color: aqua;
+    font-size: 24px;
+
+}

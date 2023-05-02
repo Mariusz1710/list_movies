@@ -8,6 +8,9 @@
 </head>
 <body>
 
+<a href="form.html.php" class="add">Add a movie</a>
+
+<h1 class="header">The best movies</h1>
 <table>
         <tr>
             <th>No.</th>
